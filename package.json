@@ -1,0 +1,19 @@
+{
+  "name": "jlinclabs.github.io",
+  "version": "1.0.0",
+  "description": "JLINC Labs API Documentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlinclabs/jlinclabs.github.io.git"
+  },
+  "author": "JLINC Labs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jlinclabs/jlinclabs.github.io/issues"
+  },
+  "homepage": "https://github.com/jlinclabs/jlinclabs.github.io#readme"
+}
